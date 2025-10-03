@@ -1,6 +1,12 @@
 {
 	"pages": [ // pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 	    {
+			"path": "pages/index6/index",
+			"style": {
+				"navigationBarTitleText": "组件插槽"
+			}
+		},
+	   {
 			"path": "pages/index5/index",
 			"style": {
 				"navigationBarTitleText": "组件"
